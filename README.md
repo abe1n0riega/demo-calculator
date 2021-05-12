@@ -1,4 +1,4 @@
 # demoCalculator
 Calculator App
 
-This is the Mode App of Calculator
+This is the Demo App of Calculator
